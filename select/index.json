@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "リトライ",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2026-02-12T09:54:22.466075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リトライ☆ランデヴー",
+      "artist": "Nyaa-tan",
+      "has_synced": false,
+      "path": "select/01_リトライ☆ランデヴー_Nyaa-tan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リトライ☆ランデヴー",
+      "artist": "にゃ～たん(CV:村川梨衣)",
+      "has_synced": true,
+      "path": "select/02_リトライ☆ランデヴー_にゃ~たん(CV_村川梨衣).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "リトライ",
+      "artist": "豆柴の大群",
+      "has_synced": false,
+      "path": "select/03_リトライ_豆柴の大群.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リトライ☆ランデヴー [TVsize ver.]",
+      "artist": "にゃ〜たん",
+      "has_synced": false,
+      "path": "select/04_リトライ☆ランデヴー_[TVsize_ver.]_にゃ〜たん.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リトライ☆ランデヴー",
+      "artist": "にゃ〜たん(CV:村川梨衣)",
+      "has_synced": false,
+      "path": "select/05_リトライ☆ランデヴー_にゃ〜たん(CV_村川梨衣).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リトライ",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_リトライ_柊マグネタイト.txt"
+    }
+  ]
+}
